@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: d8dcbcf1f12d6904cbf66e72e0018d7f
+timeCreated: 1476766369
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - PT Sans Narrow
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 03b82a128337b5440bee52bbe66fc280, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

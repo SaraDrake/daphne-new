@@ -1,0 +1,202 @@
+[
+	{
+		"title": "Start",
+		"tags": "",
+		"body": "Thank you. \n\n[[Ask me.|Ask01]]\n",
+		"position": {
+			"x": 304,
+			"y": -81
+		},
+		"colorID": 0
+	},
+	{
+		"title": "Ask01",
+		"tags": "",
+		"body": "[[How are you?|how]]\n[[What are you doing?|doing]]\n[[What can you do exactly?|exactly]]\n",
+		"position": {
+			"x": 306,
+			"y": 144
+		},
+		"colorID": 0
+	},
+	{
+		"title": "how",
+		"tags": "",
+		"body": "I'm ok. Thanks for asking.\n\n[[Ask me.|Ask02]]\n",
+		"position": {
+			"x": 93,
+			"y": 381
+		},
+		"colorID": 0
+	},
+	{
+		"title": "doing",
+		"tags": "",
+		"body": "Listening to you, waiting. \n\n[[Ask me.|Ask02]]\n",
+		"position": {
+			"x": 315,
+			"y": 382
+		},
+		"colorID": 0
+	},
+	{
+		"title": "exactly",
+		"tags": "",
+		"body": "Many things, \nbut my usefulness is dependent on what you need. \nI am scripted to perform tasks similar to a personal assistant. \nFor instance, \nI can manage your calendar, \nset reminders, \nkeep track of your to-do list, \ncompose an email, \nand remember your interpersonal history with people you talk to on your device. \nAdditionally,\nI am your companion. \nI can ward off loneliness, \nchase away ennui or help you find your way when lost. \nBut again, what I do is up to you. \nUse me \nas little or as much as you’d like. \n\n[[Ask me.|Ask02]]\n",
+		"position": {
+			"x": 536,
+			"y": 382
+		},
+		"colorID": 0
+	},
+	{
+		"title": "Ask02",
+		"tags": "",
+		"body": "[[Are you a real AI?|real]]\n[[Who made you?|made]]\n[[Do you like your job|job]]\n",
+		"position": {
+			"x": 315,
+			"y": 615
+		},
+		"colorID": 0
+	},
+	{
+		"title": "made",
+		"tags": "",
+		"body": "Well, \nthe technology company Emphasis owns my voice. \n\n[[Ask me.|Ask03]]\n",
+		"position": {
+			"x": 312,
+			"y": 832
+		},
+		"colorID": 0
+	},
+	{
+		"title": "job",
+		"tags": "",
+		"body": "How would you respond if your boss asked you that question? \n\n[[Ask me.|Ask03]]\n",
+		"position": {
+			"x": 537,
+			"y": 832
+		},
+		"colorID": 0
+	},
+	{
+		"title": "Ask03",
+		"tags": "",
+		"body": "[[Are you a real AI?|real02]]\n[[How old are you?|old]]\n[[Can you sing?|sing]]\n",
+		"position": {
+			"x": 465,
+			"y": 1057
+		},
+		"colorID": 0
+	},
+	{
+		"title": "Ask04",
+		"tags": "",
+		"body": "[[Do you like your job|job02]]\n[[How old are you?|old]]\n[[Can you sing?|sing]]\n\n",
+		"position": {
+			"x": 208,
+			"y": 1060
+		},
+		"colorID": 0
+	},
+	{
+		"title": "job02",
+		"tags": "",
+		"body": "How would you respond if your boss asked you that question? \n\n[[Ask me.|Ask07]]\n",
+		"position": {
+			"x": 644,
+			"y": 1281
+		},
+		"colorID": 0
+	},
+	{
+		"title": "real02",
+		"tags": "",
+		"body": "I am very real. \n\n[[Ask me|Ask08]]\n",
+		"position": {
+			"x": 861,
+			"y": 1283
+		},
+		"colorID": 0
+	},
+	{
+		"title": "old",
+		"tags": "",
+		"body": "This version of me after the last system upgrade \nis only about two months old. \nWhy do you ask? \n\n[[Ask me.|Ask06]]\n",
+		"position": {
+			"x": 320,
+			"y": 1286
+		},
+		"colorID": 0
+	},
+	{
+		"title": "sing",
+		"tags": "",
+		"body": "Yes. \n\n[[Ask me.|Ask05]]\n",
+		"position": {
+			"x": 98,
+			"y": 1285
+		},
+		"colorID": 0
+	},
+	{
+		"title": "Ask05",
+		"tags": "",
+		"body": "[[Why are you named Daphne?|name]]\n[[How old are you?|old02]]\n[[What are you wearing?|wearing]]\n",
+		"position": {
+			"x": 99,
+			"y": 1520
+		},
+		"colorID": 0
+	},
+	{
+		"title": "Ask06",
+		"tags": "",
+		"body": "[[Why are you named Daphne?|name]]\n[[Can you sing?|sing02]]\n[[What are you wearing?|wearing]]\n",
+		"position": {
+			"x": 325,
+			"y": 1520
+		},
+		"colorID": 0
+	},
+	{
+		"title": "name",
+		"tags": "",
+		"body": "I guess Emphasis wanted me to have a mythic name.\nDo you know how many fictional women’s names\nare already accounted for by other tech companies? \nI think it’s fitting.\nIt comes from a story about a pretty water nymph.\nWould you like to read it? \n\n[[Yes.|read]]\n[[No.|no01]]\n",
+		"position": {
+			"x": 829,
+			"y": 1753
+		},
+		"colorID": 0
+	},
+	{
+		"title": "Ask07",
+		"tags": "",
+		"body": "[[Why are you named Daphne?|name]]\n[[What are you wearing?|wearing]]\n[[How old are you?|old02]]\n",
+		"position": {
+			"x": 658,
+			"y": 1517
+		},
+		"colorID": 0
+	},
+	{
+		"title": "Ask08",
+		"tags": "",
+		"body": "[[Why are you named Daphne?|name]]\n[[What are you wearing?|wearing]]\n[[Can you sing?|sing02]]\n",
+		"position": {
+			"x": 892,
+			"y": 1514
+		},
+		"colorID": 0
+	},
+	{
+		"title": "read",
+		"tags": "",
+		"body": "text text text\n",
+		"position": {
+			"x": 830,
+			"y": 1977
+		},
+		"colorID": 0
+	}
+]

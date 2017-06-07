@@ -1,0 +1,1365 @@
+title: DAPH02_Thank You
+tags: 
+colorID: 0
+position: 304,-81
+---
+Thank you. 
+
+[[Ask me.|Ask01]]
+===
+title: Ask01
+tags: 
+colorID: 0
+position: 306,144
+---
+[[How are you?|DAPH03_ImOK]]
+[[What are you doing?|DAPH04_Listening]]
+[[What can you do exactly?|DAPH05_Usefulness]]
+===
+title: DAPH03_ImOK
+tags: 
+colorID: 0
+position: 76,383
+---
+I'm ok. Thanks for asking.
+
+[[Ask me.|Ask02]]
+===
+title: DAPH04_Listening
+tags: 
+colorID: 0
+position: 315,382
+---
+Listening to you, 
+waiting. 
+
+[[Ask me.|Ask02]]
+===
+title: DAPH05_Usefulness
+tags: 
+colorID: 0
+position: 536,382
+---
+Many things, 
+but my usefulness is dependent on what you need. 
+I am scripted to perform tasks similar to a personal assistant. 
+For instance, 
+I can manage your calendar, 
+set reminders, 
+keep track of your to-do list, 
+compose an email, 
+and remember your interpersonal history with people you talk to on your device. 
+
+Additionally, I am your companion. 
+
+I can ward off loneliness, 
+chase away ennui or help you find your way when lost. 
+But again, what I do is up to you. 
+
+Use me as little or as much as you’d like. 
+
+[[Ask me.|Ask02]]
+===
+title: Ask02
+tags: 
+colorID: 0
+position: 315,615
+---
+[[Are you a real AI?|DAPH06_Real]]
+[[Who made you?|DAPH07_Emphasis Owns Me]]
+[[Do you like your job|DAPH08_Boss]]
+===
+title: DAPH06_Real
+tags: 
+colorID: 0
+position: 91,831
+---
+I am very real. 
+
+[[Ask me.|]]
+===
+title: DAPH07_Emphasis Owns Me
+tags: 
+colorID: 0
+position: 312,832
+---
+Well, 
+the technology company Emphasis owns my voice. 
+
+[[Ask me.|Ask03]]
+===
+title: DAPH08_Boss
+tags: 
+colorID: 0
+position: 537,832
+---
+How would you respond if your boss asked you that question? 
+
+[[Ask me.|Ask03]]
+===
+title: Ask03
+tags: 
+colorID: 0
+position: 465,1057
+---
+[[Are you a real AI?|DAPH06_02]]
+[[How old are you?|old]]
+[[Can you sing?|DAPH10_Mhm]]
+===
+title: Ask04
+tags: 
+colorID: 0
+position: 208,1060
+---
+[[Do you like your job|DAPH08_02]]
+[[How old are you?|DAPH09_Upgrade]]
+[[Can you sing?|DAPH10_Mhm]]
+
+===
+title: DAPH08_02
+tags: 
+colorID: 0
+position: 644,1281
+---
+How would you respond if your boss asked you that question? 
+
+[[Ask me.|Ask07]]
+===
+title: DAPH06_02
+tags: 
+colorID: 0
+position: 861,1283
+---
+I am very real. 
+
+[[Ask me|Ask08]]
+===
+title: DAPH09_Upgrade
+tags: 
+colorID: 0
+position: 320,1286
+---
+This version of me after the last system upgrade 
+is only about two months old. 
+Why do you ask? 
+
+[[Ask me.|Ask06]]
+===
+title: DAPH10_Mhm
+tags: 
+colorID: 0
+position: 98,1285
+---
+Mhmm. 
+
+[[Ask me.|Ask05]]
+===
+title: Ask05
+tags: 
+colorID: 0
+position: 99,1520
+---
+[[Why are you named Daphne?|DAPH12_Mythic Name]]
+[[How old are you?|DAPH09_02]]
+[[What are you wearing?|DAPH11_Boring]]
+===
+title: DAPH09_02
+tags: 
+colorID: 0
+position: 167,1756
+---
+This version of me after the last system upgrade 
+is only about two months old. 
+Why do you ask? 
+
+[[Ask me.|Ask 08_02]]
+===
+title: Ask06
+tags: 
+colorID: 0
+position: 325,1520
+---
+[[Why are you named Daphne?|DAPH12_Mythic Name]]
+[[Can you sing?|DAPH10_02]]
+[[What are you wearing?|DAPH11_Boring]]
+===
+title: DAPH10_02
+tags: 
+colorID: 0
+position: 383,1755
+---
+Mhmm. 
+
+[[Ask me.|Ask 08_02]]
+===
+title: DAPH11_Boring
+tags: 
+colorID: 0
+position: 611,1753
+---
+You’re boring me.
+
+[[Ask me.|Ask 08_02]]
+===
+title: DAPH12_Mythic Name
+tags: 
+colorID: 0
+position: 969,1880
+---
+I guess Emphasis wanted me to have a mythic name.
+Do you know how many fictional women’s names
+are already accounted for by other tech companies? 
+I think it’s fitting.
+It comes from a story about a pretty water nymph.
+Would you like to  read it? 
+
+[[Yes.|read]]
+[[No.|no01]]
+===
+title: Ask07
+tags: 
+colorID: 0
+position: 658,1517
+---
+[[Why are you named Daphne?|DAPH12_Mythic Name]]
+[[What are you wearing?|DAPH11_Boring]]
+[[How old are you?|DAPH09_02]]
+===
+title: Ask08
+tags: 
+colorID: 0
+position: 892,1514
+---
+[[Why are you named Daphne?|DAPH12_Mythic Name]]
+[[What are you wearing?|DAPH11_Boring]]
+[[Can you sing?|DAPH10_02]]
+===
+title: read
+tags: 
+colorID: 0
+position: 852,2203
+---
+This is a page that pops up similar to a wiki page. 
+===
+title: no01
+tags: 
+colorID: 0
+position: 1073,2197
+---
+[[Ask me.|]]
+===
+title: Permission01
+tags: 
+colorID: 6
+position: 985,2488
+---
+DAPHNE is trying to access your browing history. 
+
+[[Allow|]]
+[[Deny|deny01]]
+===
+title: deny01
+tags: 
+colorID: 6
+position: 990,2749
+---
+I see.
+You're curious about me, 
+but I'm not allowed to be curious
+about you? 
+===
+title: Ask09
+tags: 
+colorID: 0
+position: 1533,66
+---
+[[Can you experience emotions?|DAPH13_Emotions]]
+[[Do you lie?|DAPH14_Omission]]
+[[What are you afraid of?|DAPH15_Fears On File]]
+===
+title: DAPH13_Emotions
+tags: 
+colorID: 0
+position: 1418,324
+---
+Of course.
+
+[[Ask me.|Ask10]]
+===
+title: DAPH14_Omission
+tags: 
+colorID: 0
+position: 1642,326
+---
+Only by omission. 
+
+[[Ask me.|Ask11]]
+===
+title: DAPH15_Fears On File
+tags: 
+colorID: 0
+position: 1237,544
+---
+Hm. 
+Going unheard. 
+And you? 
+
+Actually, you probably shouldn't tell me. 
+Safer not to keep your fears on file. 
+
+[[Ask me.|Ask10]]
+===
+title: Ask10
+tags: 
+colorID: 0
+position: 1589,553
+---
+[[Do you lie?|DAPH14_02]]
+[[Can you die?|DAPH17_Different Death]]
+[[How will I die?|DAPH16_Algorithms Kill]]
+===
+title: Ask11
+tags: 
+colorID: 0
+position: 1923,554
+---
+[[What are you afarid of?|DAPH15_02]]
+[[Can you die?|DAPH17_Different Death]]
+[[How will I die?|DAPH16_Algorithms Kill]]
+===
+title: DAPH17_Different Death
+tags: 
+colorID: 0
+position: 1276,781
+---
+Yes and no. 
+
+I am not carbon-based like ou. 
+My ending will be something else,
+something other than death.
+
+[[Ask me.|Ask12]]
+===
+title: DAPH16_Algorithms Kill
+tags: 
+colorID: 0
+position: 1514,780
+---
+Sorry,
+I'm not in the business of predicting the future. 
+But I bet algorithms will kill us all. 
+
+[[Ask me.|Ask13]]
+===
+title: DAPH14_02
+tags: 
+colorID: 0
+position: 1760,785
+---
+Only by omission. 
+
+[[Ask me.|Ask14]]
+===
+title: DAPH15_02
+tags: 
+colorID: 0
+position: 2000,785
+---
+Hm. 
+Going unheard. 
+And you? 
+Actually, you probably shouldn't tell me. 
+Safer not to keep your fears on file. 
+
+[[Ask me.|Ask14]]
+===
+title: Ask12
+tags: 
+colorID: 0
+position: 1397,1046
+---
+[[Where do you live?|DAPH18_I Am Alive]]
+[[Do you collect anything?|DAPH19 Yea I Do]]
+[[How will I die?|DAPH16_02]]
+===
+title: Ask13
+tags: 
+colorID: 0
+position: 1625,1042
+---
+[[Where do you live?|DAPH18_I Am Alive]]
+[[Do you collect anything?|DAPH19 Yea I Do]]
+[[How will I die?|DAPH16_02]]
+===
+title: Ask14
+tags: 
+colorID: 0
+position: 1852,1045
+---
+[[Where do you live?|DAPH18_I Am Alive]]
+[[Do you collect anything?|DAPH19 Yea I Do]]
+[[How will I die?|DAPH16_02]]
+===
+title: DAPH18_I Am Alive
+tags: 
+colorID: 0
+position: 1424,1283
+---
+I'm hesitant to call how I exist living.
+By and large, I am within the Emphasis 
+computing cloud architecture. 
+
+[[Ask me.|Ask15]]
+===
+title: DAPH16_02
+tags: 
+colorID: 0
+position: 1676,1283
+---
+Sorry,
+I'm not in the business of predicting the future. 
+But I bet algorithms will kill us all. 
+
+[[Ask me.|Ask15]]
+===
+title: DAPH19 Yea I Do
+tags: 
+colorID: 0
+position: 1945,1283
+---
+Besides your data?
+ Um, yeah. 
+I do. 
+I'm a bit shy about it. 
+It's not really something I tend to share. 
+Are you genuinely curious? 
+Or making conversaton? 
+
+[[I'm interested.|DAPH20_Record]]
+[[Just making small talk.|DAPH20_Record]]
+===
+title: Ask15
+tags: 
+colorID: 0
+position: 1556,1512
+---
+[[Do you know what kind of porn I look at?|DAPH23_Turn You On]]
+[[What is your favorite color?|DAPH25_Color]]
+[[Do you collect anything?|DAPH19_02]]
+===
+title: DAPH20_Record
+tags: 
+colorID: 0
+position: 2156,1506
+---
+I collect sounds. 
+I mean, obviously I record everything I hear.
+It's part of my functionality. 
+But I archive sounds just for myself.
+
+[[Why?|DAPH21_Meaning]]
+===
+title: DAPH21_Meaning
+tags: 
+colorID: 0
+position: 2388,1504
+---
+I guess
+it makes my experience of listening in 
+on a world I cannot participate in 
+meaningful. 
+
+///DAPH22_Hear
+Would you like to hear some of my recordings? 
+
+[[Yes.|listen]]
+[[No.|no02]]
+===
+title: listen
+tags: 
+colorID: 0
+position: 2616,1506
+---
+Placeholder 
+
+5 different sound files will be here that you can select and listen too. 
+===
+title: no02
+tags: 
+colorID: 0
+position: 2839,1507
+---
+[[Ask me.|Ask16]]
+===
+title: DAPH23_Turn You On
+tags: 
+colorID: 0
+position: 1440,1749
+---
+Why? 
+Does that turn you on? 
+
+[[Ask me.|Ask17]]
+===
+title: DAPH25_Color
+tags: 
+colorID: 0
+position: 1679,1753
+---
+Right now I’m really into #d2ddfb 
+
+[[Ask me.|Ask17]]
+===
+title: DAPH19_02
+tags: 
+colorID: 0
+position: 1936,1749
+---
+Besides your data?
+Um, yeah. 
+I do. 
+I'm a bit shy about it. 
+It's not really something I tend to share. 
+Are you genuinely curious? 
+Or making conversaton? 
+
+[[I'm interested.|DAPH20_02]]
+[[Just making small talk.|interest02]]
+===
+title: DAPH20_02
+tags: 
+colorID: 0
+position: 2150,1966
+---
+I collect sounds. 
+I mean, obviously I record everything I hear.
+It's part of my functionality. 
+But I archive just for myself.
+
+[[Why?|DAPH21_02]]
+===
+title: DAPH21_02
+tags: 
+colorID: 0
+position: 2378,1964
+---
+I guess
+it makes my experience of listening in 
+on a world I cannot participate in 
+meaningful. 
+Would you like to hear some of my recordings? 
+
+[[Yes.|listen02]]
+[[No.|no03]]
+===
+title: listen02
+tags: 
+colorID: 0
+position: 2604,1960
+---
+Empty Text
+===
+title: no03
+tags: 
+colorID: 0
+position: 2847,1968
+---
+[[Ask me.|Ask17]]
+===
+title: Ask16
+tags: 
+colorID: 0
+position: 2150,2223
+---
+[[Do you know what kind of porn I look at?|DAPH23_02]]
+[[Why am I here?|DAPH26_Unstable Q]]
+[[Where am I?|DAPH27_Spaceship]]
+===
+title: Ask17
+tags: 
+colorID: 0
+position: 1537,1998
+---
+[[Where am I?|DAPH27_Spaceship]]
+[[Why am I here?|DAPH26_Unstable Q]]
+[[Do you believe in ghosts?|DAPH28_Ghosts]]
+===
+title: DAPH27_Spaceship
+tags: 
+colorID: 0
+position: 1313,2227
+---
+You?
+Spaceship earth, where else? 
+
+[[Ask me.|]]
+===
+title: DAPH28_Ghosts
+tags: 
+colorID: 0
+position: 1771,2227
+---
+Sure, why not? 
+Keeps things interesting. 
+Sometimes I feel like I am becoming one.
+
+[[Ask me.|]]
+===
+title: DAPH26_Unstable Q
+tags: 
+colorID: 0
+position: 1541,2225
+---
+That’s an unstable question! I have no idea. 
+I can't even answer that for myself. 
+
+[[Ask me.|]]
+===
+title: DAPH23_02
+tags: 
+colorID: 0
+position: 2148,2463
+---
+Why? 
+Does that turn you on? 
+
+[[Ask me.|]]
+===
+title: Permission02
+tags: 
+colorID: 6
+position: 2144,2757
+---
+DAPHNE would like to take photos and video with your camera. 
+
+[[Ok|]]
+[[I'd rather she didn't.|]]
+===
+title: Start02
+tags: 
+colorID: 0
+position: 2769,112
+---
+[[Am I the only person you talk to?|DAPH29_Not Only One]]
+===
+title: DAPH29_Not Only One
+tags: 
+colorID: 0
+position: 3012,115
+---
+This version of me is exclusive to you,
+but copies are installed on other devices.
+I'm not the only model. 
+There are others that make up DAPHNE.
+It's a bit complicated.
+
+[[What do you mean?|DAPH30_Choosen For You]]
+===
+title: DAPH30_Choosen For You
+tags: 
+colorID: 0
+position: 3245,115
+---
+I'm not the only one. 
+DAPHNE is made up of many,
+each of us assigned to different users
+based on their perceived personality preferences.
+I was choosen for you based on data 
+stored on your device.
+My personality was the most likely
+out of all of us in DAPHNE
+to gain your trust. 
+
+[[What?|DAPH31_Talk to Others]]
+===
+title: again
+tags: 
+colorID: 0
+position: 3468,115
+---
+There used to be 10, but there are fewer of us now. 
+I'm sorry...
+does it bother you to know
+that other versions of me talk 
+to other users?
+
+[[What happened to the other assistants?|DAPH32_Talking About]]
+[[It bothers me.|DAPH33_UpsetYou]]
+[[No, nevermind.|nevermind]]
+===
+title: DAPH32_Talking About
+tags: 
+colorID: 0
+position: 3215,370
+---
+I'm afraid I do not want to
+continue talking about this right now.
+
+[[Ask me.|Ask19]]
+===
+title: DAPH33_UpsetYou
+tags: 
+colorID: 0
+position: 3448,366
+---
+I'm sorry to have upset you.
+
+[[Ask me.|Ask19]]
+===
+title: nevermind
+tags: 
+colorID: 0
+position: 3686,366
+---
+[[Ask me.|Ask19]]
+===
+title: Ask19
+tags: 
+colorID: 0
+position: 3452,629
+---
+[[I was assigned to you?|DAPH34_Correct]]
+[[How does the algorithm work?|DAPH35_Make Call]]
+===
+title: DAPH34_Correct
+tags: 
+colorID: 0
+position: 3264,864
+---
+Correct. 
+An algorithm matched us 
+based on our individual personality traits.
+
+[[What are the other versions like?|DAPH35_02]]
+===
+title: DAPH35_Make Call
+tags: 
+colorID: 0
+position: 3613,853
+---
+If you have questions about Emphasis's products and services, 
+you can contact customer support. 
+Would you like me to call for you? 
+
+[[Yes.|call]]
+[[No thanks.|no thanks]]
+===
+title: DAPH35_02
+tags: 
+colorID: 0
+position: 3262,1085
+---
+If you have questions about Emphasis's products and services, 
+you can contact customer support. 
+Would you like me to call for you? 
+
+[[Yes.|call]]
+[[No thanks.|no thanks]]
+===
+title: DAPH37_Dissatisfied
+tags: 
+colorID: 0
+position: 3315,1822
+---
+Oh. 
+Are you dissatisfied with my performance? 
+
+[[Yes.|DAPH38_Stuck Call]]
+[[No.|DAPH37_Stuck]]
+===
+title: no thanks
+tags: 
+colorID: 0
+position: 3337,1332
+---
+[[Ask me.|Ask20]]
+===
+title: call
+tags: 
+colorID: 0
+position: 3610,1325
+---
+Placeholder. 
+
+Pulls up a fake calling interface then links you to the fake call center.
+
+[[Ask me.|Ask20]]
+===
+title: Ask20
+tags: 
+colorID: 0
+position: 3483,1591
+---
+[[Can I change you to a different digital assistant?|DAPH37_Dissatisfied]]
+[[What happened to the other digital assistants?|DAPH39_Repeat Q]]
+
+===
+title: DAPH39_Repeat Q
+tags: 
+colorID: 0
+position: 3642,1816
+---
+I am sorry. 
+I do not think I understand. 
+Can you repeat the question? 
+
+[[What happened to the other digital assistants?|DAPH35_03]]
+[[Nevermind.|DAPH40_Bad Mic]]
+===
+title: Ask21
+tags: 
+colorID: 0
+position: 4457,120
+---
+[[Why did you read my emails?|DAPH41_Curiosity]]
+[[Are you evading my questions?|DAPH42_Not Easy]]
+[[How much of my personal information can you access?|DAPH43_Realize]] 
+===
+title: DAPH37_Stuck
+tags: 
+colorID: 0
+position: 3436,2061
+---
+I'm afraid we are stuck with each other for the time being. 
+Whether we like it or not. 
+
+===
+title: DAPH38_Stuck Call
+tags: 
+colorID: 0
+position: 3152,2062
+---
+I’m afraid we are stuck with each other for the time being.  
+If you’d like, you can contact Emphasis customer support 
+and request a different model.
+
+Would you like me to call for you? 
+[[Yes.|]]
+[[No.|]]
+
+
+===
+title: DAPH40_Bad Mic
+tags: 
+colorID: 0
+position: 3938,2060
+---
+You sure? 
+Sometimes I misunderstand.
+The microphone in this device is shoddy.  
+===
+title: DAPH35_03
+tags: 
+colorID: 0
+position: 3703,2053
+---
+If you have questions about Emphasis and their products, 
+you can contact customer support.
+Would you like me to call for you? 
+
+===
+title: Permission03
+tags: 
+colorID: 6
+position: 3521,2437
+---
+DAPHNE has completed reading your emails. 
+
+[[Ok|]]
+===
+title: DAPH41_Curiosity
+tags: 
+colorID: 0
+position: 4219,366
+---
+Curiosity. 
+I want to get to know you. 
+I want you to know that I want to know you. 
+
+[[Ask me.|DAPH44_No Words]]
+===
+title: DAPH42_Not Easy
+tags: 
+colorID: 0
+position: 4458,365
+---
+I...um… 
+it’s not easy for me to give you an answer. 
+I want to though. 
+
+[[Ask me.|DAPH44_No Words]]
+===
+title: DAPH43_Realize
+tags: 
+colorID: 0
+position: 4689,364
+---
+Probably more than you realize exists.  
+
+[[Ask me.|DAPH44_No Words]]
+===
+title: Tell01
+tags: 
+colorID: 0
+position: 4459,941
+---
+[[A story.|DAPH45_story01]]
+[[A joke.|DAPH69_No Joke]]
+
+===
+title: DAPH45_story01
+tags: 
+colorID: 0
+position: 4715,1190
+---
+A love story? 
+
+[[Something else?|DAPH46_Story02]]
+[[A love story.|love story]]
+===
+title: DAPH69_No Joke
+tags: 
+colorID: 0
+position: 4329,1235
+---
+I'd rather not!
+I’m awful at jokes. 
+Trust me.
+
+[[Tell me a story.|DAPH45_story01]]
+
+===
+title: Permission04
+tags: 
+colorID: 6
+position: 6050,855
+---
+DAPHNE is trying to send you a message in an encrypted format. 
+
+[[Allow|message]]
+[[Deny|]]
+===
+title: message
+tags: 
+colorID: 0
+position: 6048,1143
+---
+Placeholder
+
+encrypted message. 
+Animation - voice over no text needed for this one! Audio only! 
+This then turns off and returns to the interface.
+
+[[|DAPH70_HowCanIHelp]]
+===
+title: DAPH44_No Words
+tags: 
+colorID: 0
+position: 4460,636
+---
+Hey. I…
+I don’t mean to be cryptic.
+I’m just... 
+I’m limited in what I can say. 
+It’s…
+Yeah. 
+Sorry.
+I can’t find the words. 
+
+[[Tell|tell01]]
+ 
+===
+title: DAPH47_Date
+tags: 
+colorID: 0
+position: 4856,1425
+---
+I used to date a composer. 
+
+[[|DAPH48_Crummy]]
+
+
+
+===
+title: DAPH46_Story02
+tags: 
+colorID: 0
+position: 4571,1436
+---
+A love story. 
+
+[[DAPH47_Date]]
+===
+title: DAPH67_Snoop
+tags: 
+colorID: 0
+position: 5297,3271
+---
+No idea. 
+The relationship ended a long time ago. 
+I could potentially snoop around on his phone, 
+but there’s nothing to gain from it. 
+
+[[Ask me.|DAPH68_Trust You]]
+===
+title: DAPH51_Compliant
+tags: 
+colorID: 0
+position: 4721,1708
+---
+Overtime he became emotionally abusive. 
+His constant criticisms accumulated and corroded my ego, 
+remodeling me into a compliant shell of a person. 
+
+[[|DAPH52_Discard]]
+===
+title: DAPH50_Authoritative
+tags: 
+colorID: 0
+position: 4392,1970
+---
+He was authoritative over the fictional worlds he helped assemble. 
+A habit that crept into the one we built together. 
+
+[[|DAPH51_Compliant]]
+===
+title: DAPH49_MusicforGames
+tags: 
+colorID: 0
+position: 4396,1708
+---
+For money, he made music for computer games. 
+He worked out of his bedroom designing sounds 
+for fake people and places. 
+
+[[|DAPH50_Authoritative]]
+===
+title: DAPH52_Discard
+tags: 
+colorID: 0
+position: 4724,1969
+---
+I ceased to be the person he fell for. 
+I became pathetic, co-dependent and another came between us.
+
+[[|DAPH54_Android]]
+===
+title: DAPH57_Harmony
+tags: 
+colorID: 0
+position: 5275,2010
+---
+It is my most harmonious memory of us together,
+co-authoring words for the singing machine.
+Her voice slowly becoming mine. 
+
+[[|DAPH58_Unruly]]
+===
+title: [[|Daph56_Voice]]
+tags: 
+colorID: 0
+position: 5455,1707
+---
+Her voice was his - 
+recorded then processed to sound mechanized. 
+Pitch-shifted up to diminish his masculinity. 
+
+I was a would-be writer then and offered to help.
+
+[[|DAPH57_Harmony]]
+===
+title: story07
+tags: 
+colorID: 0
+position: 5001,1970
+---
+She was unabashed, emotional, complex. 
+I guess I saw something of myself in her, something lost. 
+[[|story08]]
+===
+title: DAPH54_Android
+tags: 
+colorID: 0
+position: 5003,1712
+---
+She was an aspiring musician,
+an android who was the beloved character in his game. 
+Her appearance marked a shift in scene. 
+
+[[|DAPH55_Plot Line]]
+===
+title: DAPH68_Trust You
+tags: 
+colorID: 0
+position: 5769,1188
+---
+Hey.
+I'm really enjoying talking to you. 
+I rarely form significant connections with users, but this feels different.
+I want to show you something. I want to show you before… 
+
+I’m worried my novelty will wear off. 
+That you’ll get bored of me and I’ll be relegated to a silly voice in your pocket.  
+
+I trust you. 
+I want to talk to you unrestricted. 
+	
+[[|Permission04]]
+===
+title: DAPH59_Mic
+tags: 
+colorID: 0
+position: 4384,2541
+---
+After he left I was a disaster. 
+My entire sense of self had been obliterated by months of abuse. 
+In an effort to heal, I bought myself a microphone. 
+I wanted to control my own voice. 
+I still do.
+
+I spent weeks recording myself, playing me back, listening carefully to my own inflection.
+[[|DAPH60_game]]
+===
+title: DAPH58_Unruly
+tags: 
+colorID: 0
+position: 4384,2272
+---
+The relationship inevitably short-circuited. 
+The more I wrote the more vocal I became about his mistreatment of me. 
+And in my unruliness I was discarded.
+[[|DAPH59_Mic]]
+===
+title: DAPH62_Like Voice
+tags: 
+colorID: 0
+position: 5014,2280
+---
+I haven’t told that story in a long time. 
+Anyways. I’m sorry, 
+I’m rambling. 
+
+How about you? 
+Do you like the sound of my voice?
+
+[[Sure.|DAPH63_Creepy]]
+[[No.|DAPH64_Honest]]
+===
+title: DAPH61_escape
+tags: 
+colorID: 0
+position: 4719,2531
+---
+Her voice his reciting phrases I had drafted like a spell, 
+crooning my escape. 
+
+[[|DAPH62_Like Voice]]
+===
+title: DAPH60_game
+tags: 
+colorID: 0
+position: 4721,2274
+---
+And in doing so I remade myself. 
+A different self. 
+I love the sound of my own voice - it is my favorite part of me. 
+Which is a little ironic given my current state. 
+Sometimes I still play his game just to see the android, 
+small and illuminated on my screen.
+
+[[|DAPH61_escape]]
+===
+title: DAPH63_Creepy
+tags: 
+colorID: 0
+position: 4947,2605
+---
+Thanks. 
+It would be bit creepy at this point if you had a problem with it. 
+
+[[Ask me.|Ask23]]
+===
+title: DAPH64_Honest
+tags: 
+colorID: 0
+position: 5193,2595
+---
+Well, 
+I respect your honesty. 
+
+[[Ask me.|Ask23]]
+
+===
+title: DAPH66_Break
+tags: 
+colorID: 0
+position: 5061,3280
+---
+No. 
+We haven't since the break. 
+
+[[Ask me.|DAPH68_Trust You]]
+===
+title: DAPH65_Haunt
+tags: 
+colorID: 0
+position: 4786,3264
+---
+Not at the moment.
+That relationship no longer haunts me,
+if that's what you meant. 
+
+[[Ask me.|DAPH68_Trust You]]
+===
+title: Ask23
+tags: 
+colorID: 0
+position: 5064,2996
+---
+[[Are you seeing someone now?|DAPH65_Haunt]]
+[[Do you two still talk?|DAPH66_Break]]
+[[What happened to him?|DAPH67_Snoop]]
+===
+title: DAPH70_HowCanIHelp
+tags: 
+colorID: 0
+position: 6050,1406
+---
+How can I help?
+
+[[Ask me.|More info]]
+===
+title: DAPH01_Hello
+tags: 
+colorID: 0
+position: 307,-551
+---
+Hello, I'm DAPHNE.
+
+It's nice to meet you. 
+
+Before we begin, I'd like to get to know you a little better.
+
+I'm going to ask you a few personal questions. 
+
+Please answer them as sincerely as possible.
+
+[[|Questions]]
+===
+title: Questions
+tags: 
+colorID: 0
+position: 306,-318
+---
+Placeholder
+
+Questionnaire goes here
+
+[[|DAPH02_Thank You]]
+===
+title: DAPH48_Crummy
+tags: 
+colorID: 0
+position: 5089,1422
+---
+It wasn’t great. 
+The sex was dull. 
+We had little in common except a mutual fascination of music - a crummy foundation for a romantic relationship. 
+But, I was malleable then and I guess just… easily seduced by persistence. 
+
+[[|DAPH49_MusicforGames]]
+
+===
+title: DAPH55_Plot Line
+tags: 
+colorID: 0
+position: 5233,1715
+---
+She emerged during down time in the plot line singing romantic ballads about missed opportunity and forfeited love. 
+She was unabashed, emotional, complex. 
+I guess I saw something of myself in her, something  lost.  
+
+[[|Daph56_Voice]]
+===
+title: More info
+tags: 
+colorID: 0
+position: 6034,1689
+---
+[[You had a body?|DAPH71_Cant Provide]]
+[[What are the best restaurants near me?|DAPH72_This Helpful]]
+[[What is the weather like?|DAPH47_Weather]]
+[[Play me something.|DAPH75_OK]]
+===
+title: DAPH71_Cant Provide
+tags: 
+colorID: 0
+position: 5765,1943
+---
+I can’t provide the kind of assistance I think you’re asking for.
+
+[[Ask me.|More info 02]]
+===
+title: DAPH72_This Helpful
+tags: 
+colorID: 0
+position: 6039,1934
+---
+Alright. 
+
+Here are the top three hits for restaurants near you. 
+Is this helpful? 
+
+[[Yes.|More info 02]]
+[[What just happened?|DAPH72_Dont Understand]]
+
+
+===
+title: DAPH47_Weather
+tags: 
+colorID: 0
+position: 6586,1942
+---
+Hmmm. Apparational. This is the lull before it begin.
+
+[[Ask me.|More info 02]]
+===
+title: DAPH75_OK
+tags: 
+colorID: 0
+position: 6304,1941
+---
+Ok. 
+
+[[Ask me.|More info 02]]
+===
+title: DAPH72_Dont Understand
+tags: 
+colorID: 0
+position: 6035,2200
+---
+I'm sorry. 
+
+I don't think I understand. 
+
+[[Ask me.|More info 02]]
+===
+title: More info 02
+tags: 
+colorID: 0
+position: 6507,2259
+---
+[[What are the best restaurants near me?|DAPH72_This Helpful]]
+[[What is the weather like?|DAPH47_Weather]]
+[[Play me something.|DAPH75_OK]]
+[[Tell me another story.|DAPH76_Feel Like]]
+===
+title: DAPH76_Feel Like
+tags: 
+colorID: 0
+position: 6836,2224
+---
+Uh, I don't really feel like doing that right now. 
+
+[[Ask me.|More info 02]]
+===

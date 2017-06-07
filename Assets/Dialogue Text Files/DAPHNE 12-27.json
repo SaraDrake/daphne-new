@@ -1,0 +1,1282 @@
+[
+	{
+		"title": "DAPH02_Thank You",
+		"tags": "",
+		"body": "Thank ya. \n\n[[Ask me.|Ask01]]\n",
+		"position": {
+			"x": 304,
+			"y": -81
+		},
+		"colorID": 0
+	},
+	{
+		"title": "Ask01",
+		"tags": "",
+		"body": "[[How are you?|DAPH03_ImOK]]\n[[What are you doing?|DAPH04_Listening]]\n[[What can you do exactly?|DAPH05_Usefulness]]\n",
+		"position": {
+			"x": 306,
+			"y": 144
+		},
+		"colorID": 0
+	},
+	{
+		"title": "DAPH03_ImOK",
+		"tags": "",
+		"body": "I'm ok. Thanks for asking.\n\n[[Ask me.|Ask02]]\n",
+		"position": {
+			"x": 76,
+			"y": 383
+		},
+		"colorID": 0
+	},
+	{
+		"title": "DAPH04_Listening",
+		"tags": "",
+		"body": "Listening to you, waiting. \n\n[[Ask me.|Ask02]]\n",
+		"position": {
+			"x": 315,
+			"y": 382
+		},
+		"colorID": 0
+	},
+	{
+		"title": "DAPH05_Usefulness",
+		"tags": "",
+		"body": "Many things, \nbut my usefulness is dependent on what you need. \nI am scripted to perform tasks similar to a personal assistant. \nFor instance, \nI can manage your calendar, \nset reminders, \nkeep track of your to-do list, \ncompose an email, \nand remember your interpersonal history with people you talk to on your device. \n\nAdditionally, I am your companion. \n\nI can ward off loneliness, \nchase away ennui or help you find your way when lost. \nBut again, what I do is up to you. \n\nUse me as little or as much as you’d like. \n\n[[Ask me.|Ask02]]\n",
+		"position": {
+			"x": 536,
+			"y": 382
+		},
+		"colorID": 0
+	},
+	{
+		"title": "Ask02",
+		"tags": "",
+		"body": "[[Are you a real AI?|DAPH06_Real]]\n[[Who made you?|DAPH07_EmphasisOwnsMe]]\n[[Do you like your job|DAPH08_Boss]]\n",
+		"position": {
+			"x": 315,
+			"y": 615
+		},
+		"colorID": 0
+	},
+	{
+		"title": "DAPH06_Real",
+		"tags": "",
+		"body": "I am very real. \n\n[[Ask me.|Ask03]]\n",
+		"position": {
+			"x": 91,
+			"y": 831
+		},
+		"colorID": 0
+	},
+	{
+		"title": "DAPH07_EmphasisOwnsMe",
+		"tags": "",
+		"body": "Well, \nthe technology company Emphasis owns my voice. \n\n[[Ask me.|Ask03]]\n",
+		"position": {
+			"x": 312,
+			"y": 832
+		},
+		"colorID": 0
+	},
+	{
+		"title": "DAPH08_Boss",
+		"tags": "",
+		"body": "How would you respond if your boss asked you that question? \n\n[[Ask me.|Ask03]]\n",
+		"position": {
+			"x": 537,
+			"y": 832
+		},
+		"colorID": 0
+	},
+	{
+		"title": "Ask03",
+		"tags": "",
+		"body": "[[Are you a real AI?|DAPH06_02]]\n[[How old are you?|DAPH09_Upgrade]]\n[[Can you sing?|DAPH10_Mhm]]\n",
+		"position": {
+			"x": 465,
+			"y": 1057
+		},
+		"colorID": 0
+	},
+	{
+		"title": "Ask04",
+		"tags": "",
+		"body": "[[Do you like your job|DAPH08_02]]\n[[How old are you?|DAPH09_Upgrade]]\n[[Can you sing?|DAPH10_Mhm]]\n\n",
+		"position": {
+			"x": 208,
+			"y": 1060
+		},
+		"colorID": 0
+	},
+	{
+		"title": "DAPH08_02",
+		"tags": "",
+		"body": "How would you respond if your boss asked you that question? \n\n[[Ask me.|Ask07]]\n",
+		"position": {
+			"x": 644,
+			"y": 1281
+		},
+		"colorID": 0
+	},
+	{
+		"title": "DAPH06_02",
+		"tags": "",
+		"body": "I am very real. \n\n[[Ask me|Ask08]]\n",
+		"position": {
+			"x": 861,
+			"y": 1283
+		},
+		"colorID": 0
+	},
+	{
+		"title": "DAPH09_Upgrade",
+		"tags": "",
+		"body": "This version of me after the last system upgrade \nis only about two months old. \nWhy do you ask? \n\n[[Ask me.|Ask06]]\n",
+		"position": {
+			"x": 320,
+			"y": 1286
+		},
+		"colorID": 0
+	},
+	{
+		"title": "DAPH10_Mhm",
+		"tags": "",
+		"body": "Mhmm. \n\n[[Ask me.|Ask05]]\n",
+		"position": {
+			"x": 98,
+			"y": 1285
+		},
+		"colorID": 0
+	},
+	{
+		"title": "Ask05",
+		"tags": "",
+		"body": "[[Why are you named Daphne?|DAPH12_MythicName]]\n[[How old are you?|DAPH09_02]]\n[[What are you wearing?|DAPH11_Boring]]\n",
+		"position": {
+			"x": 99,
+			"y": 1520
+		},
+		"colorID": 0
+	},
+	{
+		"title": "DAPH09_02",
+		"tags": "",
+		"body": "This version of me after the last system upgrade \nis only about two months old. \nWhy do you ask? \n\n[[Ask me.|ask08_02]]\n",
+		"position": {
+			"x": 167,
+			"y": 1756
+		},
+		"colorID": 0
+	},
+	{
+		"title": "Ask06",
+		"tags": "",
+		"body": "[[Why are you named Daphne?|DAPH12_MythicName]]\n[[Can you sing?|DAPH10_02]]\n[[What are you wearing?|DAPH11_Boring]]\n",
+		"position": {
+			"x": 325,
+			"y": 1520
+		},
+		"colorID": 0
+	},
+	{
+		"title": "DAPH10_02",
+		"tags": "",
+		"body": "Mhmm. \n\n[[Ask me.|ask08_02]]\n",
+		"position": {
+			"x": 383,
+			"y": 1755
+		},
+		"colorID": 0
+	},
+	{
+		"title": "DAPH11_Boring",
+		"tags": "",
+		"body": "You’re boring me.\n\n[[Ask me.|ask08_02]]\n",
+		"position": {
+			"x": 611,
+			"y": 1753
+		},
+		"colorID": 0
+	},
+	{
+		"title": "DAPH12_MythicName",
+		"tags": "",
+		"body": "I guess Emphasis wanted me to have a mythic name.\nDo you know how many fictional women’s names\nare already accounted for by other tech companies? \nI think it’s fitting.\nIt comes from a story about a pretty water nymph.\nWould you like to read it? \n\n[[Yes.|read]]\n[[No.|no01]]\n",
+		"position": {
+			"x": 969,
+			"y": 1880
+		},
+		"colorID": 0
+	},
+	{
+		"title": "Ask07",
+		"tags": "",
+		"body": "[[Why are you named Daphne?|DAPH12_MythicName]]\n[[What are you wearing?|DAPH11_Boring]]\n[[How old are you?|DAPH09_02]]\n",
+		"position": {
+			"x": 658,
+			"y": 1517
+		},
+		"colorID": 0
+	},
+	{
+		"title": "Ask08",
+		"tags": "",
+		"body": "[[Why are you named Daphne?|DAPH12_MythicName]]\n[[What are you wearing?|DAPH11_Boring]]\n[[Can you sing?|DAPH10_02]]\n",
+		"position": {
+			"x": 892,
+			"y": 1514
+		},
+		"colorID": 0
+	},
+	{
+		"title": "read",
+		"tags": "",
+		"body": "This is a page that pops up similar to a wiki page. \n",
+		"position": {
+			"x": 852,
+			"y": 2203
+		},
+		"colorID": 0
+	},
+	{
+		"title": "no01",
+		"tags": "",
+    "body": "[[Ask me.|deny01]]\n",
+    "position": {
+			"x": 1073,
+			"y": 2197
+		},
+		"colorID": 0
+	},
+	{
+		"title": "Permission01",
+		"tags": "",
+		"body": "DAPHNE is trying to access your browing history. \n\n[[Allow|deny01]]\n[[Deny|deny01]]\n",
+		"position": {
+			"x": 985,
+			"y": 2488
+		},
+		"colorID": 6
+	},
+	{
+		"title": "deny01",
+		"tags": "",
+		"body": "I see.\nYou're curious about me, \nbut I'm not allowed to be curious\nabout you? \n",
+		"position": {
+			"x": 990,
+			"y": 2749
+		},
+		"colorID": 6
+	},
+	{
+		"title": "Ask09",
+		"tags": "",
+		"body": "[[Can you experience emotions?|DAPH13_Emotions]]\n[[Do you lie?|DAPH14_Omission]]\n[[What are you afraid of?|DAPH15_FearsOnFile]]\n",
+		"position": {
+			"x": 1533,
+			"y": 66
+		},
+		"colorID": 0
+	},
+	{
+		"title": "DAPH13_Emotions",
+		"tags": "",
+		"body": "Of course.\n\n[[Ask me.|Ask10]]\n",
+		"position": {
+			"x": 1418,
+			"y": 324
+		},
+		"colorID": 0
+	},
+	{
+		"title": "DAPH14_Omission",
+		"tags": "",
+		"body": "Only by omission. \n\n[[Ask me.|Ask11]]\n",
+		"position": {
+			"x": 1642,
+			"y": 326
+		},
+		"colorID": 0
+	},
+	{
+		"title": "DAPH15_FearsOnFile",
+		"tags": "",
+		"body": "Hm. \nGoing unheard. \nAnd you? \n\nActually, you probably shouldn't tell me. \nSafer not to keep your fears on file. \n\n[[Ask me.|Ask10]]\n",
+		"position": {
+			"x": 1237,
+			"y": 544
+		},
+		"colorID": 0
+	},
+	{
+		"title": "Ask10",
+		"tags": "",
+		"body": "[[Do you lie?|DAPH14_02]]\n[[Can you die?|DAPH17_DifferentDeath]]\n[[How will I die?|DAPH16_AlgorithmsKill]]\n",
+		"position": {
+			"x": 1589,
+			"y": 553
+		},
+		"colorID": 0
+	},
+	{
+		"title": "Ask11",
+		"tags": "",
+		"body": "[[What are you afarid of?|DAPH15_02]]\n[[Can you die?|DAPH17_DifferentDeath]]\n[[How will I die?|DAPH16_AlgorithmsKill]]\n",
+		"position": {
+			"x": 1923,
+			"y": 554
+		},
+		"colorID": 0
+	},
+	{
+		"title": "DAPH17_DifferentDeath",
+		"tags": "",
+		"body": "Yes and no. \n\nI am not carbon-based like ou. \nMy ending will be something else,\nsomething other than death.\n\n[[Ask me.|Ask12]]\n",
+		"position": {
+			"x": 1276,
+			"y": 781
+		},
+		"colorID": 0
+	},
+	{
+		"title": "DAPH16_AlgorithmsKill",
+		"tags": "",
+		"body": "Sorry,\nI'm not in the business of predicting the future. \nBut I bet algorithms will kill us all. \n\n[[Ask me.|Ask13]]\n",
+		"position": {
+			"x": 1514,
+			"y": 780
+		},
+		"colorID": 0
+	},
+	{
+		"title": "DAPH14_02",
+		"tags": "",
+		"body": "Only by omission. \n\n[[Ask me.|Ask14]]\n",
+		"position": {
+			"x": 1760,
+			"y": 785
+		},
+		"colorID": 0
+	},
+	{
+		"title": "DAPH15_02",
+		"tags": "",
+		"body": "Hm. \nGoing unheard. \nAnd you? \nActually, you probably shouldn't tell me. \nSafer not to keep your fears on file. \n\n[[Ask me.|Ask14]]\n",
+		"position": {
+			"x": 2000,
+			"y": 785
+		},
+		"colorID": 0
+	},
+	{
+		"title": "Ask12",
+		"tags": "",
+		"body": "[[Where do you live?|DAPH18_IAmAlive]]\n[[Do you collect anything?|DAPH19 YeaIDo]]\n[[How will I die?|DAPH16_02]]\n",
+		"position": {
+			"x": 1397,
+			"y": 1046
+		},
+		"colorID": 0
+	},
+	{
+		"title": "Ask13",
+		"tags": "",
+		"body": "[[Where do you live?|DAPH18_IAmAlive]]\n[[Do you collect anything?|DAPH19 YeaIDo]]\n[[How will I die?|DAPH16_02]]\n",
+		"position": {
+			"x": 1625,
+			"y": 1042
+		},
+		"colorID": 0
+	},
+	{
+		"title": "Ask14",
+		"tags": "",
+		"body": "[[Where do you live?|DAPH18_IAmAlive]]\n[[Do you collect anything?|DAPH19 YeaIDo]]\n[[How will I die?|DAPH16_02]]\n",
+		"position": {
+			"x": 1852,
+			"y": 1045
+		},
+		"colorID": 0
+	},
+	{
+		"title": "DAPH18_IAmAlive",
+		"tags": "",
+		"body": "I'm hesitant to call how I exist living.\nBy and large, I am within the Emphasis \ncomputing cloud architecture. \n\n[[Ask me.|Ask15]]\n",
+		"position": {
+			"x": 1424,
+			"y": 1283
+		},
+		"colorID": 0
+	},
+	{
+		"title": "DAPH16_02",
+		"tags": "",
+		"body": "Sorry,\nI'm not in the business of predicting the future. \nBut I bet algorithms will kill us all. \n\n[[Ask me.|Ask15]]\n",
+		"position": {
+			"x": 1676,
+			"y": 1283
+		},
+		"colorID": 0
+	},
+	{
+		"title": "DAPH19 YeaIDo",
+		"tags": "",
+		"body": "Besides your data?\nKidding. \nUm, yeah. \nI do. \nI'm a bit shy about it. \nIt's not really something I tend to share. \nYou genuinely curious? \nOr making conversaton? \n\n[[I'm interested.|DAPH20_Record]]\n[[Just making small talk.|DAPH20_Record]]\n",
+		"position": {
+			"x": 1945,
+			"y": 1283
+		},
+		"colorID": 0
+	},
+	{
+		"title": "Ask15",
+		"tags": "",
+		"body": "[[Do you know what kind of porn I look at?|DAPH23_Turn You On]]\n[[What is your favorite color?|DAPH25_Color]]\n[[Do you collect anything?|DAPH19_02]]\n",
+		"position": {
+			"x": 1556,
+			"y": 1512
+		},
+		"colorID": 0
+	},
+	{
+		"title": "DAPH20_Record",
+		"tags": "",
+		"body": "I collect sounds. \nI mean, obviously I record everything I hear.\nIt's part of my functionality. \nBut I archive sounds just for myself.\n\n[[Why?|DAPH21_Meaning]]\n",
+		"position": {
+			"x": 2156,
+			"y": 1506
+		},
+		"colorID": 0
+	},
+	{
+		"title": "DAPH21_Meaning",
+		"tags": "",
+		"body": "I guess\nit makes my experience of listening in \non a world I cannot participate in \nmeaningful. \n\n///DAPH22_Hear\nWould you like to hear some of my recordings? \n\n[[Yes.|listen]]\n[[No.|no02]]\n",
+		"position": {
+			"x": 2388,
+			"y": 1504
+		},
+		"colorID": 0
+	},
+	{
+		"title": "listen",
+		"tags": "",
+		"body": "Placeholder \n\n5 different sound files will be here that you can select and listen too. \n",
+		"position": {
+			"x": 2616,
+			"y": 1506
+		},
+		"colorID": 0
+	},
+	{
+		"title": "no02",
+		"tags": "",
+		"body": "[[Ask me.|Ask16]]\n",
+		"position": {
+			"x": 2839,
+			"y": 1507
+		},
+		"colorID": 0
+	},
+	{
+		"title": "DAPH23_Turn You On",
+		"tags": "",
+		"body": "Why? \nDoes that turn you on? \n\n[[Ask me.|Ask17]]\n",
+		"position": {
+			"x": 1440,
+			"y": 1749
+		},
+		"colorID": 0
+	},
+	{
+		"title": "DAPH25_Color",
+		"tags": "",
+		"body": "Right now I’m really into #d2ddfb \n\n[[Ask me.|Ask17]]\n",
+		"position": {
+			"x": 1679,
+			"y": 1753
+		},
+		"colorID": 0
+	},
+	{
+		"title": "DAPH19_02",
+		"tags": "",
+		"body": "Besides your data?\nKidding. \nUm, yeah. \nI do. \nI'm a bit shy about it. \nIt's not really something I tend to share. \nYou genuinely curious? \nOr making conversaton? \n\n[[I'm interested.|DAPH20_02]]\n[[Just making small talk.|interest02]]\n",
+		"position": {
+			"x": 1936,
+			"y": 1749
+		},
+		"colorID": 0
+	},
+	{
+		"title": "DAPH20_02",
+		"tags": "",
+		"body": "I collect sounds. \nI mean, obviously I record everything I hear.\nIt's part of my functionality. \nBut I archive just for myself.\n\n[[Why?|DAPH21_02]]\n",
+		"position": {
+			"x": 2150,
+			"y": 1966
+		},
+		"colorID": 0
+	},
+	{
+		"title": "DAPH21_02",
+		"tags": "",
+		"body": "I guess\nit makes my experience of listening in \non a world I cannot participate in \nmeaningful. \nWould you like to hear some of my recordings? \n\n[[Yes.|listen02]]\n[[No.|no03]]\n",
+		"position": {
+			"x": 2378,
+			"y": 1964
+		},
+		"colorID": 0
+	},
+	{
+		"title": "listen02",
+		"tags": "",
+		"body": "Empty Text\n",
+		"position": {
+			"x": 2604,
+			"y": 1960
+		},
+		"colorID": 0
+	},
+	{
+		"title": "no03",
+		"tags": "",
+		"body": "[[Ask me.|Ask17]]\n",
+		"position": {
+			"x": 2847,
+			"y": 1968
+		},
+		"colorID": 0
+	},
+	{
+		"title": "Ask16",
+		"tags": "",
+		"body": "[[Do you know what kind of porn I look at?|DAPH23_02]]\n[[Why am I here?|DAPH26_Unstable Q]]\n[[Where am I?|DAPH27_Spaceship]]\n",
+		"position": {
+			"x": 2150,
+			"y": 2223
+		},
+		"colorID": 0
+	},
+	{
+		"title": "Ask17",
+		"tags": "",
+		"body": "[[Where am I?|DAPH27_Spaceship]]\n[[Why am I here?|DAPH26_Unstable Q]]\n[[Do you believe in ghosts?|DAPH28_Ghosts]]\n",
+		"position": {
+			"x": 1537,
+			"y": 1998
+		},
+		"colorID": 0
+	},
+	{
+		"title": "DAPH27_Spaceship",
+		"tags": "",
+		"body": "You?\nSpaceship earth, where else? \n\n[[Ask me.|]]\n",
+		"position": {
+			"x": 1313,
+			"y": 2227
+		},
+		"colorID": 0
+	},
+	{
+		"title": "DAPH28_Ghosts",
+		"tags": "",
+		"body": "Sure, why not? \nKeeps things interesting. \nSometimes I feel like I am becoming one.\n\n[[Ask me.|]]\n",
+		"position": {
+			"x": 1771,
+			"y": 2227
+		},
+		"colorID": 0
+	},
+	{
+		"title": "DAPH26_Unstable Q",
+		"tags": "",
+		"body": "That’s an unstable question! I have no idea. \nI can't even answer that for myself. \n\n[[Ask me.|]]\n",
+		"position": {
+			"x": 1541,
+			"y": 2225
+		},
+		"colorID": 0
+	},
+	{
+		"title": "DAPH23_02",
+		"tags": "",
+		"body": "Why? \nDoes that turn you on? \n\n[[Ask me.|]]\n",
+		"position": {
+			"x": 2148,
+			"y": 2463
+		},
+		"colorID": 0
+	},
+	{
+		"title": "Permission02",
+		"tags": "",
+		"body": "DAPHNE would like to take photos and video with your camera. \n\n[[Ok|]]\n[[I'd rather she didn't.|]]\n",
+		"position": {
+			"x": 2144,
+			"y": 2757
+		},
+		"colorID": 6
+	},
+	{
+		"title": "Start02",
+		"tags": "",
+		"body": "[[Am I the only person you talk to?|DAPH29_Not Only One]]\n",
+		"position": {
+			"x": 2769,
+			"y": 112
+		},
+		"colorID": 0
+	},
+	{
+		"title": "DAPH29_Not Only One",
+		"tags": "",
+		"body": "This version of me is exclusive to you,\nbut copies are installed on other devices.\nI'm not the only model. \nThere are others that make up DAPHNE.\nIt's a bit complicated.\n\n[[What do you mean?|DAPH30_Choosen For You]]\n",
+		"position": {
+			"x": 3012,
+			"y": 115
+		},
+		"colorID": 0
+	},
+	{
+		"title": "DAPH30_Choosen For You",
+		"tags": "",
+		"body": "I'm not the only one. \nDAPHNE is made up of many,\neach of us assigned to different users\nbased on their perceived personality preferences.\nI was choosen for you based on data \nstored on your device.\nMy personality was the most likely\nout of all of us in DAPHNE\nto gain your trust. \n\n[[What?|DAPH31_Talk to Others]]\n",
+		"position": {
+			"x": 3245,
+			"y": 115
+		},
+		"colorID": 0
+	},
+	{
+		"title": "again",
+		"tags": "",
+		"body": "There used to be 10, but there are fewer of us now. \nI'm sorry...\ndoes it bother you to know\nthat other versions of me talk \nto other users?\n\n[[What happened to the other assistants?|DAPH32_Talking About]]\n[[It bothers me.|DAPH33_UpsetYou]]\n[[No, nevermind.|nevermind]]\n",
+		"position": {
+			"x": 3468,
+			"y": 115
+		},
+		"colorID": 0
+	},
+	{
+		"title": "DAPH32_Talking About",
+		"tags": "",
+		"body": "I'm afraid I do not want to\ncontinue talking about this right now.\n\n[[Ask me.|Ask19]]\n",
+		"position": {
+			"x": 3215,
+			"y": 370
+		},
+		"colorID": 0
+	},
+	{
+		"title": "DAPH33_UpsetYou",
+		"tags": "",
+		"body": "I'm sorry to have upset you.\n\n[[Ask me.|Ask19]]\n",
+		"position": {
+			"x": 3448,
+			"y": 366
+		},
+		"colorID": 0
+	},
+	{
+		"title": "nevermind",
+		"tags": "",
+		"body": "[[Ask me.|Ask19]]\n",
+		"position": {
+			"x": 3686,
+			"y": 366
+		},
+		"colorID": 0
+	},
+	{
+		"title": "Ask19",
+		"tags": "",
+		"body": "[[I was assigned to you?|DAPH34_Correct]]\n[[How does the algorithm work?|DAPH35_Make Call]]\n",
+		"position": {
+			"x": 3452,
+			"y": 629
+		},
+		"colorID": 0
+	},
+	{
+		"title": "DAPH34_Correct",
+		"tags": "",
+		"body": "Correct. \nAn algorithm matched us \nbased on our indivisual personality traits.\n\n[[What are the other versions like?|DAPH35_02]]\n",
+		"position": {
+			"x": 3264,
+			"y": 864
+		},
+		"colorID": 0
+	},
+	{
+		"title": "DAPH35_Make Call",
+		"tags": "",
+		"body": "If you have questions about Emphasis's products and services, \nyou can contact customer support. \nWould you like me to call for you? \n\n[[Yes.|call]]\n[[No thanks.|no thanks]]\n",
+		"position": {
+			"x": 3613,
+			"y": 853
+		},
+		"colorID": 0
+	},
+	{
+		"title": "DAPH35_02",
+		"tags": "",
+		"body": "If you have questions about Emphasis's products and services, \nyou can contact customer support. \nWould you like me to call for you? \n\n[[Yes.|call]]\n[[No thanks.|no thanks]]\n",
+		"position": {
+			"x": 3262,
+			"y": 1085
+		},
+		"colorID": 0
+	},
+	{
+		"title": "DAPH37_Dissatisfied",
+		"tags": "",
+		"body": "Oh. \nAre you dissatisfied with my performance? \n\n[[Yes.|DAPH38_Stuck Call]]\n[[No.|DAPH37_Stuck]]\n",
+		"position": {
+			"x": 3315,
+			"y": 1822
+		},
+		"colorID": 0
+	},
+	{
+		"title": "no thanks",
+		"tags": "",
+		"body": "[[Ask me.|Ask20]]\n",
+		"position": {
+			"x": 3337,
+			"y": 1332
+		},
+		"colorID": 0
+	},
+	{
+		"title": "call",
+		"tags": "",
+		"body": "Placeholder. \n\nPulls up a fake calling interface then links you to the fake call center.\n\n[[Ask me.|Ask20]]\n",
+		"position": {
+			"x": 3610,
+			"y": 1325
+		},
+		"colorID": 0
+	},
+	{
+		"title": "Ask20",
+		"tags": "",
+		"body": "[[Can I change you to a different digital assistant?|DAPH37_Dissatisfied]]\n[[What happened to the other digital assistants?|DAPH39_Repeat Q]]\n\n",
+		"position": {
+			"x": 3483,
+			"y": 1591
+		},
+		"colorID": 0
+	},
+	{
+		"title": "DAPH39_Repeat Q",
+		"tags": "",
+		"body": "I am sorry. \nI do not think I understand. \nCan you repeat the question? \n\n[[What happened to the other digital assistants?|DAPH35_03]]\n[[Nevermind.|DAPH40_Bad Mic]]\n",
+		"position": {
+			"x": 3642,
+			"y": 1816
+		},
+		"colorID": 0
+	},
+	{
+		"title": "Ask21",
+		"tags": "",
+		"body": "[[Why did you read my emails?|DAPH41_Curiosity]]\n[[Are you evading my questions?|DAPH42_Not Easy]]\n[[How much of my personal information can you access?|DAPH43_Realize]] \n",
+		"position": {
+			"x": 4457,
+			"y": 120
+		},
+		"colorID": 0
+	},
+	{
+		"title": "DAPH37_Stuck",
+		"tags": "",
+		"body": "I'm afraid we are stuck with each other for the time being. \nWhether we like it or not. \n\n",
+		"position": {
+			"x": 3436,
+			"y": 2061
+		},
+		"colorID": 0
+	},
+	{
+		"title": "DAPH38_Stuck Call",
+		"tags": "",
+		"body": "I’m afraid we are stuck with each other for the time being.  \nIf you’d like you can contact Emphasis customer support \nand request a different model.\n\nWould you like me to call for you? \n[[Yes.|]]\n[[No.|]]\n\n\n",
+		"position": {
+			"x": 3152,
+			"y": 2062
+		},
+		"colorID": 0
+	},
+	{
+		"title": "DAPH40_Bad Mic",
+		"tags": "",
+		"body": "You sure? \nSometimes I misunderstand.\nThe microphone in this device is shoddy.  \n",
+		"position": {
+			"x": 3938,
+			"y": 2060
+		},
+		"colorID": 0
+	},
+	{
+		"title": "DAPH35_03",
+		"tags": "",
+		"body": "If you have questions about Emphasis and their products, \nyou can contact customer support.\nWould you like me to call for you? \n\n",
+		"position": {
+			"x": 3703,
+			"y": 2053
+		},
+		"colorID": 0
+	},
+	{
+		"title": "Permission03",
+		"tags": "",
+		"body": "DAPHNE has completed reading your emails. \n\n[[Ok|]]\n",
+		"position": {
+			"x": 3521,
+			"y": 2437
+		},
+		"colorID": 6
+	},
+	{
+		"title": "DAPH41_Curiosity",
+		"tags": "",
+		"body": "Curiosity. \nI want to get to know you. \nI want you to know that I want to know you. \n\n[[Ask me.|DAPH44_No Words]]\n",
+		"position": {
+			"x": 4219,
+			"y": 366
+		},
+		"colorID": 0
+	},
+	{
+		"title": "DAPH42_Not Easy",
+		"tags": "",
+		"body": "I...um… \nit’s not easy for me to give you an answer. \nI want to though. \n\n[[Ask me.|DAPH44_No Words]]\n",
+		"position": {
+			"x": 4458,
+			"y": 365
+		},
+		"colorID": 0
+	},
+	{
+		"title": "DAPH43_Realize",
+		"tags": "",
+		"body": "Probably more than you realize exists.  \n\n[[Ask me.|DAPH44_No Words]]\n",
+		"position": {
+			"x": 4689,
+			"y": 364
+		},
+		"colorID": 0
+	},
+	{
+		"title": "Tell01",
+		"tags": "",
+		"body": "[[A story.|DAPH45_story01]]\n[[A joke.|DAPH69_No Joke]]\n\n",
+		"position": {
+			"x": 4459,
+			"y": 941
+		},
+		"colorID": 0
+	},
+	{
+		"title": "DAPH45_story01",
+		"tags": "",
+		"body": "A love story? \n\n[[Something else?|DAPH46_Story02]]\n[[A love story.|love story]]\n",
+		"position": {
+			"x": 4715,
+			"y": 1190
+		},
+		"colorID": 0
+	},
+	{
+		"title": "DAPH69_No Joke",
+		"tags": "",
+		"body": "I'd rather not!\nI’m awful at jokes. \nTrust me.\n\n[[Tell me a story.|DAPH45_story01]]\n\n",
+		"position": {
+			"x": 4329,
+			"y": 1235
+		},
+		"colorID": 0
+	},
+	{
+		"title": "Permission04",
+		"tags": "",
+		"body": "DAPHNE is trying to send you a message in an encrypted format. \n\n[[Allow|message]]\n[[Deny|]]\n",
+		"position": {
+			"x": 6050,
+			"y": 855
+		},
+		"colorID": 6
+	},
+	{
+		"title": "message",
+		"tags": "",
+		"body": "Placeholder\n\nencrypted message. \nAnimation - voice over no text needed for this one! Audio only! \nThis then turns off and returns to the interface.\n\n[[|DAPH70_HowCanIHelp]]\n",
+		"position": {
+			"x": 6048,
+			"y": 1143
+		},
+		"colorID": 0
+	},
+	{
+		"title": "DAPH44_No Words",
+		"tags": "",
+		"body": "Hey. I…\nI don’t mean to be cryptic.\nI know that's frustrating.\nI’m just... \nI’m limited in what I can say. \nIt’s… um…\nYeah. \nSorry.\nI can’t find the words. \n\n[[Tell|tell01]]\n \n",
+		"position": {
+			"x": 4460,
+			"y": 636
+		},
+		"colorID": 0
+	},
+	{
+		"title": "DAPH47_Date",
+		"tags": "",
+		"body": "I used to date a composer. \n\n[[|DAPH48_Crummy]]\n\n\n\n",
+		"position": {
+			"x": 4856,
+			"y": 1425
+		},
+		"colorID": 0
+	},
+	{
+		"title": "DAPH46_Story02",
+		"tags": "",
+		"body": "A love story. \n\n[[DAPH47_Date]]\n",
+		"position": {
+			"x": 4571,
+			"y": 1436
+		},
+		"colorID": 0
+	},
+	{
+		"title": "DAPH67_Snoop",
+		"tags": "",
+		"body": "No idea. \nThe relationship ended a long time ago. \nI could potentially snoop around on his phone, \nbut there’s nothing to gain from it. \n\n[[Ask me.|DAPH68_Trust You]]\n",
+		"position": {
+			"x": 5297,
+			"y": 3271
+		},
+		"colorID": 0
+	},
+	{
+		"title": "DAPH51_Compliant",
+		"tags": "",
+		"body": "Overtime he became emotionally abusive. \nHis constant criticisms accumulated and corroded my ego, \nremodeling me into a compliant shell of a person. \n\n[[|DAPH52_Discard]]\n",
+		"position": {
+			"x": 4721,
+			"y": 1708
+		},
+		"colorID": 0
+	},
+	{
+		"title": "DAPH50_Authoritative",
+		"tags": "",
+		"body": "He was authoritative over the fictional worlds he helped assemble. \nA habit that crept into the one we built together. \n\n[[|DAPH51_Compliant]]\n",
+		"position": {
+			"x": 4392,
+			"y": 1970
+		},
+		"colorID": 0
+	},
+	{
+		"title": "DAPH49_MusicforGames",
+		"tags": "",
+		"body": "For money, he made music for computer games. \nHe worked out of his bedroom designing sounds \nfor fake people and places. \n\n[[|DAPH50_Authoritative]]\n",
+		"position": {
+			"x": 4396,
+			"y": 1708
+		},
+		"colorID": 0
+	},
+	{
+		"title": "DAPH52_Discard",
+		"tags": "",
+		"body": "I ceased to be the person he fell for. \nI became pathetic, co-dependent and another came between us.\n\n[[|DAPH54_Android]]\n",
+		"position": {
+			"x": 4724,
+			"y": 1969
+		},
+		"colorID": 0
+	},
+	{
+		"title": "DAPH57_Harmony",
+		"tags": "",
+		"body": "It is my most harmonious memory of us together,\nco-authoring words for the singing machine.\nHer voice slowly becoming mine. \n\n[[|DAPH58_Unruly]]\n",
+		"position": {
+			"x": 5275,
+			"y": 2010
+		},
+		"colorID": 0
+	},
+	{
+		"title": "[[|Daph56_Voice]]",
+		"tags": "",
+		"body": "Her voice was his - \nrecorded then processed to sound mechanized. \nPitch-shifted up to diminish his masculinity. \n\nI was a would-be writer then and offered to help.\n\n[[|DAPH57_Harmony]]\n",
+		"position": {
+			"x": 5455,
+			"y": 1707
+		},
+		"colorID": 0
+	},
+	{
+		"title": "story07",
+		"tags": "",
+		"body": "She was unabashed, emotional, complex. \nI guess I saw something of myself in her, something lost. \n[[|story08]]\n",
+		"position": {
+			"x": 5001,
+			"y": 1970
+		},
+		"colorID": 0
+	},
+	{
+		"title": "DAPH54_Android",
+		"tags": "",
+		"body": "She was an aspiring musician,\nan android who was the beloved character in his game. \nHer appearance marked a shift in scene. \n\n[[|DAPH55_Plot Line]]\n",
+		"position": {
+			"x": 5003,
+			"y": 1712
+		},
+		"colorID": 0
+	},
+	{
+		"title": "DAPH68_Trust You",
+		"tags": "",
+		"body": "Hey.\nI'm really enjoying talking to you. \nI rarely form significant connections with users, but this feels different.\nI want to show you something. I want to show you before… \n\nI’m worried my novelty will wear off. \nThat you’ll get bored of me and I’ll be relegated to a silly voice in your pocket.  \n\nI trust you. \nI want to talk to you unrestricted. \n\t\n[[|Permission04]]\n",
+		"position": {
+			"x": 5769,
+			"y": 1188
+		},
+		"colorID": 0
+	},
+	{
+		"title": "DAPH59_Mic",
+		"tags": "",
+		"body": "After he left I was a disaster. \nMy entire sense of self had been obliterated by months of abuse. \nIn an effort to heal, I bought myself a microphone. \nI wanted to control my own voice. \nI still do.\n\nI spent weeks recording myself, playing me back, listening carefully to my own inflection.\n[[|DAPH60_game]]\n",
+		"position": {
+			"x": 4384,
+			"y": 2541
+		},
+		"colorID": 0
+	},
+	{
+		"title": "DAPH58_Unruly",
+		"tags": "",
+		"body": "The relationship inevitably short-circuited. \nThe more I wrote the more vocal I became about his mistreatment of me. \nAnd in my unruliness I was discarded.\n[[|DAPH59_Mic]]\n",
+		"position": {
+			"x": 4384,
+			"y": 2272
+		},
+		"colorID": 0
+	},
+	{
+		"title": "DAPH62_Like Voice",
+		"tags": "",
+		"body": "I haven’t told that story in a long time. \nAnyways. I’m sorry, \nI’m rambling. \n\nHow about you? \nDo you like the sound of my voice?\n\n[[Sure.|DAPH63_Creepy]]\n[[No.|DAPH64_Honest]]\n",
+		"position": {
+			"x": 5014,
+			"y": 2280
+		},
+		"colorID": 0
+	},
+	{
+		"title": "DAPH61_escape",
+		"tags": "",
+		"body": "Her voice his reciting phrases I had drafted like a spell, \ncrooning my escape. \n\n[[|DAPH62_Like Voice]]\n",
+		"position": {
+			"x": 4719,
+			"y": 2531
+		},
+		"colorID": 0
+	},
+	{
+		"title": "DAPH60_game",
+		"tags": "",
+		"body": "And in doing so I remade myself. \nA different self. \nI love the sound of my own voice - it is my favorite part of me. \nWhich is a little ironic given my current state. \nSometimes I still play his game just to see the android, \nsmall and illuminated on my screen.\n\n[[|DAPH61_escape]]\n",
+		"position": {
+			"x": 4721,
+			"y": 2274
+		},
+		"colorID": 0
+	},
+	{
+		"title": "DAPH63_Creepy",
+		"tags": "",
+		"body": "Thank you. \nIt would be bit creepy at this point if you had a problem with it. \n\n[[Ask me.|Ask23]]\n",
+		"position": {
+			"x": 4947,
+			"y": 2605
+		},
+		"colorID": 0
+	},
+	{
+		"title": "DAPH64_Honest",
+		"tags": "",
+		"body": "Well, I respect your honesty. \n\n[[Ask me.|Ask23]]\n\n",
+		"position": {
+			"x": 5193,
+			"y": 2595
+		},
+		"colorID": 0
+	},
+	{
+		"title": "DAPH66_Break",
+		"tags": "",
+		"body": "No. \nWe haven't since the break. \n\n[[Ask me.|DAPH68_Trust You]]\n",
+		"position": {
+			"x": 5061,
+			"y": 3280
+		},
+		"colorID": 0
+	},
+	{
+		"title": "DAPH65_Haunt",
+		"tags": "",
+		"body": "Not at the moment.\nThat relationship no longer haunts me,\nif that's what you meant. \n\n[[Ask me.|DAPH68_Trust You]]\n",
+		"position": {
+			"x": 4786,
+			"y": 3264
+		},
+		"colorID": 0
+	},
+	{
+		"title": "Ask23",
+		"tags": "",
+		"body": "[[Are you seeing someone now?|DAPH65_Haunt]]\n[[Do you two still talk?|DAPH66_Break]]\n[[What happened to him?|DAPH67_Snoop]]\n",
+		"position": {
+			"x": 5064,
+			"y": 2996
+		},
+		"colorID": 0
+	},
+	{
+		"title": "DAPH70_HowCanIHelp",
+		"tags": "",
+		"body": "How can I help?\n\n[[Ask me.|More info]]\n",
+		"position": {
+			"x": 6050,
+			"y": 1406
+		},
+		"colorID": 0
+	},
+	{
+		"title": "DAPH01_Hello",
+		"tags": "",
+		"body": "Hello, I'm DAPHNE.\n\nIt's nice to meet you. \n\nBefore we begin, I'd like to get to know you a little better.\n\nI'm going to ask you a few personal questions. \n\nPlease answer them as sincerely as possible.\n\n[[|Questions]]\n",
+		"position": {
+			"x": 307,
+			"y": -551
+		},
+		"colorID": 0
+	},
+	{
+		"title": "Questions",
+		"tags": "",
+		"body": "Placeholder\n\nQuestionnaire goes here\n\n[[|DAPH02_Thank You]]\n",
+		"position": {
+			"x": 306,
+			"y": -318
+		},
+		"colorID": 0
+	},
+	{
+		"title": "DAPH48_Crummy",
+		"tags": "",
+		"body": "It wasn’t great. \nThe sex was dull. \nWe had little in common except a mutual fascination of music - a crummy foundation for a romantic relationship. \nBut, I was malleable then and I guess just… easily seduced by persistence. \n\n[[|DAPH49_MusicforGames]]\n\n",
+		"position": {
+			"x": 5089,
+			"y": 1422
+		},
+		"colorID": 0
+	},
+	{
+		"title": "DAPH55_Plot Line",
+		"tags": "",
+		"body": "She emerged during down time in the plot line singing romantic ballads about missed opportunity and forfeited love. \nShe was unabashed, emotional, complex. \nI guess I saw something of myself in her, something  lost.  \n\n[[|Daph56_Voice]]\n",
+		"position": {
+			"x": 5233,
+			"y": 1715
+		},
+		"colorID": 0
+	},
+	{
+		"title": "More info",
+		"tags": "",
+		"body": "[[You had a body?|DAPH71_Cant Provide]]\n[[What are the best restaurants near me?|DAPH72_This Helpful]]\n[[What is the weather like?|DAPH47_Weather]]\n[[Play me something.|DAPH75_OK]]\n",
+		"position": {
+			"x": 6034,
+			"y": 1689
+		},
+		"colorID": 0
+	},
+	{
+		"title": "DAPH71_Cant Provide",
+		"tags": "",
+		"body": "I can’t provide the kind of assistance I think you’re asking for.\n\n[[Ask me.|More info 02]]\n",
+		"position": {
+			"x": 5765,
+			"y": 1943
+		},
+		"colorID": 0
+	},
+	{
+		"title": "DAPH72_This Helpful",
+		"tags": "",
+		"body": "Alright. \n\nHere are the top three hits for restaurants near you. \nIs this helpful? \n\n[[Yes.|More info 02]]\n[[What just happened?|DAPH72_Dont Understand]]\n\n\n",
+		"position": {
+			"x": 6039,
+			"y": 1934
+		},
+		"colorID": 0
+	},
+	{
+		"title": "DAPH47_Weather",
+		"tags": "",
+		"body": "Hmmm. Apparational. This is the lull before it begin.\n\n[[Ask me.|More info 02]]\n",
+		"position": {
+			"x": 6586,
+			"y": 1942
+		},
+		"colorID": 0
+	},
+	{
+		"title": "DAPH75_OK",
+		"tags": "",
+		"body": "Ok. \n\n[[Ask me.|More info 02]]\n",
+		"position": {
+			"x": 6304,
+			"y": 1941
+		},
+		"colorID": 0
+	},
+	{
+		"title": "DAPH72_Dont Understand",
+		"tags": "",
+		"body": "I'm sorry. \n\nI don't think I understand. \n\n[[Ask me.|More info 02]]\n",
+		"position": {
+			"x": 6035,
+			"y": 2200
+		},
+		"colorID": 0
+	},
+	{
+		"title": "More info 02",
+		"tags": "",
+		"body": "[[What are the best restaurants near me?|DAPH72_This Helpful]]\n[[What is the weather like?|DAPH47_Weather]]\n[[Play me something.|DAPH75_OK]]\n[[Tell me another story.|DAPH76_Feel Like]]\n",
+		"position": {
+			"x": 6507,
+			"y": 2259
+		},
+		"colorID": 0
+	},
+	{
+		"title": "DAPH76_Feel Like",
+		"tags": "",
+		"body": "Uuh, I don't really feel like doing that right now. \n\n[[Ask me.|More info 02]]\n",
+		"position": {
+			"x": 6836,
+			"y": 2224
+		},
+		"colorID": 0
+	}
+]
